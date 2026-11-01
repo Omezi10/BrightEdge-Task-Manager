@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
-import Icon from './icon';
+import Icon from './iconcomponent';
 
 const TABS = [['all', 'grid', 'All Tasks', ''], ['active', 'play', 'Active Tasks', ''], ['completed', 'cc', 'Completed Tasks', 'g']];
 const SORTS = [['new', 'Newest first'], ['old', 'Oldest first'], ['az', 'A–Z'], ['pri', 'Priority']];

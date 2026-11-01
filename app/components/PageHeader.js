@@ -1,4 +1,4 @@
-import Icon from './icon';
+import Icon from './iconcomponent';
 
 const META = {
   all: ['grid', 'All Tasks', 'View and manage all your tasks in one place.'],

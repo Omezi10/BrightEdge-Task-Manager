@@ -1,4 +1,4 @@
-import Icon from './icon';
+import Icon from './iconcomponent';
 
 const NAV = [['overview', 'home', 'Overview'], ['all', 'grid', 'All Tasks'], ['active', 'play', 'Active Tasks'], ['completed', 'cc', 'Completed Tasks']];
 

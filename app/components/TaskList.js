@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useState } from 'react';
-import Icon from './icon';
+import Icon from './iconcomponent';
 import { fmt } from '../lib/helpers';
 
 export default function TaskList({ list, onToggle, onEdit, onDel }) {

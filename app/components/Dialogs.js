@@ -1,4 +1,4 @@
-import Icon from './icon';
+import Icon from './iconcomponent';
 import Modal from './Modal';
 
 const Head = ({ onClose, children }) => (

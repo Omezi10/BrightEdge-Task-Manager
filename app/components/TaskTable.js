@@ -1,4 +1,4 @@
-import Icon from './icon';
+import Icon from './iconcomponent';
 import { fmt, tm, PER } from '../lib/helpers';
 
 const HEAD = {

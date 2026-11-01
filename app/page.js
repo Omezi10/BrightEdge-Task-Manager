@@ -9,7 +9,7 @@ import Bar from './components/Bar';
 import TaskTable from './components/TaskTable';
 import TaskList from './components/TaskList';
 import TaskModal from './components/TaskModal';
-import Icon from './components/icon';
+import Icon from './components/iconcomponent';
 import { DeleteDialog, HelpDialog, ReminderDialog } from './components/Dialogs';
 import { seed } from './lib/data';
 import { KEY, iso, fmt, tm, dueAt, left, beep, stats, filterTasks } from './lib/helpers';

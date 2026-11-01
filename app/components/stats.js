@@ -1,4 +1,4 @@
-import Icon from './icon';
+import Icon from './iconcomponent';
 
 function Donut({ r }) {
   const c = ((2 * Math.PI * 32 * r) / 100).toFixed(1);

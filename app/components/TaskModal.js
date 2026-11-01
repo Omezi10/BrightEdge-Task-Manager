@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useRef, useState } from 'react';
-import Icon from './icon';
+import Icon from './iconcomponent';
 import Modal from './Modal';
 import { iso } from '../lib/helpers';
 
